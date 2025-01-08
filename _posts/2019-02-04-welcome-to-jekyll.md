@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Bikepacking"
 summary: "My description of bikepacking"
-author: johndoe
+author: Matty O
 date: '2025-01-08 14:35:23 +0530'
 category: Bikepacking
 thumbnail: /assets/img/posts/code.jpg
