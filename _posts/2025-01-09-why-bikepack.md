@@ -15,15 +15,13 @@ usemathjax: true
 
   ![image info](/assets/img/posts/why_bikepacking/why_bikepack_1.jpg)
 
-  A bike provides a much more connected experience to one’s surroundings. I vividly remember many places I’ve ridden because of their terrain, condition of the roads, and the people I met while there. Much more than I ever could behind the wheel of a car because I was truly experiencing the location for what it was. Every detail of the craziest hills have carved their place into my mind with each pedal stroke, type 2 fun at its finest. While on a bike, I’ve found that one is much more approachable to those in the communities passed through. They see a sunburnt and tired soul on a bike loaded with gear and get curious. Maybe for a moment they can live vicariously through your telling of the adventure past or yet to come. Maybe they can provide their own tellings of past adventures, stories of the community, advice for the journey ahead, or simply some much needed conversation and human interaction. Many of these offhand interactions have become the most prominent memories of my adventures. A few of these interactions are as follows:
+  A bike provides an immensely connected experience to one’s surroundings. I vividly remember many places I’ve ridden because of their terrain and the people I met while there. Much more than I ever could behind the wheel of a car because I was truly experiencing the location and what it had to offer. Every detail of the craziest hills have carved their place into my mind with each pedal stroke. This sounds miserable and it can be but [type 2 fun](https://www.rei.com/blog/climb/fun-scale) is simply more memorable than type 1. While on a bike, I’ve found that one is much more approachable to those in the communities passed through. They see a sunburnt and tired soul on a bike loaded with gear and get curious. Maybe for a moment they can live vicariously through your telling of the adventure past or yet to come. Maybe they can provide their own tellings of past adventures, stories of the community, advice for the journey ahead, or simply some much needed conversation and human interaction. Many of these offhand interactions have become the most prominent memories of my adventures. A few of these interactions are as follows:
 
-  -From a man who looked like he was straight out of an 1800’s mine, learning the history of a lake that used to be an open-    pit mine
+  -From a man who looked like he was straight out of an 1800’s mine, learning the history of a lake that used to be an open-pit mine
   
   -A tour of Bob Dylan’s childhood home
   
   -An introduction to the baker that has made the best roadside caramel rolls for ~20 years 
-  
-  -Those that introduced me to the baker got my number to check in on me throughout my trip
   
   -A tour of the sewing room at prominent bikepacking bag company after the owner saw the homemade bags on my bike
   
