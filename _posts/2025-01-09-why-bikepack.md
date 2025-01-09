@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Bikepack"
+title:  "Why Bikepack?"
 summary: "What is bikepacking and why do it?"
 author: Matty O
 date: '2025-01-09 14:35:23 +0530'
