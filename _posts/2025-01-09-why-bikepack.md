@@ -5,7 +5,7 @@ summary: "What is bikepacking and why do it?"
 author: Matty O
 date: '2025-01-09 14:35:23 +0530'
 category: Bikepacking
-thumbnail: /assets/img/posts/why_bikepack/why_bikepack_2
+thumbnail: /assets/img/posts/why_bikepacking/why_bikepack_2
 keywords: bikepacking, what is bikepacking, travel by bike, bike touring
 permalink: /blog/why-bikepack/
 usemathjax: true
