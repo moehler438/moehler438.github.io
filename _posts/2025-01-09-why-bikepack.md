@@ -33,6 +33,6 @@ usemathjax: true
   
 Most of these probably seem pretty insignificant and like they could easily be accomplished by driving somewhere. They certainly could. But it's a completely different feeling to drive to a roadside bakery than to have been riding in the rain for a couple of hours and suddenly see a massive sign reading "CINNAMON ROLLS" (she made caramel rolls when I was there). 
 
-So why go bikepacking? It's an avenue of type 2 fun that allows you to explore great distances while still taking in the views. It brings a feeling of uncertainty to each day making anything possible and instilling an intense level of self-confidence. Bikepacking provides a degree of approachability that allows for the most memorable of connections and experiences. 
+So why go bikepacking? It's an avenue of type 2 fun that allows you to explore great distances while still taking in the views. It brings a feeling of uncertainty to each day making anything possible and instills an intense level of self-confidence. Bikepacking provides a degree of approachability that allows for the most memorable of connections and experiences. 
 
 
