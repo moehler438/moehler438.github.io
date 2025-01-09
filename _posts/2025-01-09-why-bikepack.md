@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "What is Bikepacking"
-summary: "My description of bikepacking"
+title:  "Why Bikepack"
+summary: "What is bikepacking and why do it?"
 author: Matty O
-date: '2025-01-08 14:35:23 +0530'
+date: '2025-01-09 14:35:23 +0530'
 category: Bikepacking
 thumbnail: /assets/img/posts/code.jpg
 keywords: bikepacking, what is bikepacking, travel by bike, bike touring
-permalink: /blog/what-is-bikepacking/
+permalink: /blog/why-bikepack/
 usemathjax: true
 ---
 
