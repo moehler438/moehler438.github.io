@@ -4,30 +4,30 @@ preview:
   original: 1.jpg
   sizes:
   - 1.jpg
-  thumbnail: 1.jpg
+  thumbnail: 1-thumbnail.jpg
 pictures:
 - filename: 1
   original: 1.jpg
   sizes:
   - 1.jpg
-  thumbnail: 1.jpg
+  thumbnail: 1-thumbnail.jpg
 - filename: cedaro
   original: cedaro.jpg
   sizes:
   - cedaro.jpg
-  thumbnail: cedaro.jpg
+  thumbnail: cedaro-thumbnail.jpg
 - filename: why_bikepack_1
   original: why_bikepack_1.jpg
   sizes:
   - why_bikepack_1.jpg
-  thumbnail: why_bikepack_2.jpg
+  thumbnail: why_bikepack_2-thumbnail.jpg
 - filename: why_bikepack_2
   original: why_bikepack_2.jpg
   sizes:
   - why_bikepack_2.jpg
-  thumbnail: why_bikepack_2.jpg
+  thumbnail: why_bikepack_2-thumbnail.jpg
 - filename: cover
   original: cover.jpg
   sizes:
   - cover.jpg
-  thumbnail: cover.jpg
+  thumbnail: cover-thumbnail.jpg
