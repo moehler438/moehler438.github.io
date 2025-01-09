@@ -31,6 +31,6 @@ usemathjax: true
 
 ![image info](/assets/img/posts/why_bikepacking/cedaro.jpg)
   
-In short, people are much more likely to approach and initialize conversation if you appear out of the ordinary. Bikepacking sure accomplishes looking out of the ordinary. 
+In short, people are much more likely to approach and initialize conversation if you appear out of the ordinary.
 
 
