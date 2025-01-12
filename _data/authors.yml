@@ -8,7 +8,7 @@ social:
     - title: "instagram"
       url: "https://instagram.com/oehler7"
     - title: "Spotify"
-      url: "https://open.spotify.com/?flow_ctx=a407d401-eac9-44dd-a5a7-d8ca6853c1bc%3A1736388005"
+      url: "https://open.spotify.com/user/oehler7"
     - title: "Strava"
       url: "https://www.strava.com/athletes/52690675"
 
