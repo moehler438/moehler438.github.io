@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Bikepack?"
 summary: "What is bikepacking and why do it?"
-author: Matty O
+author: mattyo
 date: '2025-01-09 14:35:23 +0530'
 category: Bikepacking
 thumbnail: /assets/img/posts/why_bikepacking/why_bikepack_2.jpg
