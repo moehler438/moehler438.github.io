@@ -11,9 +11,8 @@ permalink: /blog/northwoods-loop-1&2/
 usemathjax: true
 ---
 
-The following is adapted from journal entries during my time bikepacking the [Northwoods Loop](https://bikepackingroots.org/project/the-northwoods-route/).
-The 9-day trip included 520 miles of riding, 3 states, 2 ferry rides, 4 national forests, and plenty of state parks/forests.
-I’ll be combining multiple days in each post to make it a quick read while maintaining the substance of the story, perfect to enjoy with your morning coffee. 
+The following few posts are adapted from journal entries during my time bikepacking the [Northwoods Loop](https://bikepackingroots.org/project/the-northwoods-route/).
+The 9-day trip included 520 miles of riding, 3 states, 2 ferry rides, 1 national park, 4 national forests, and plenty of state parks/forests. I’ll be combining multiple days in each post to make it a quick read while maintaining the substance of the story, perfect to enjoy with your morning coffee. 
 
 ## Day 1 - Cable to Flat Lake
 - 48.45 miles
