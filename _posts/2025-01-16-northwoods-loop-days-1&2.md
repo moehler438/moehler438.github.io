@@ -26,7 +26,7 @@ This would be their first real test, 9 days around the western half of Lake Supe
 
  ![image info](/assets/img/posts/northwoods-loop-1&2/day1-trees.jpg)
 
-The ride itself was uneventful but in a good way—the way you want the first day of a trip to be. The roads were tame and carved tunnels through the overhanging branches of trees with their fresh spring leaves. 
+The ride itself was uneventful but in a good way—the way you want the first day of a trip to be. The roads were tame and carved tunnels through the overhanging branches of fresh spring leaves. 
 My homemade bags stayed together and the fresh northern air filled my lungs. What more could I ask for? I eventually came to the county forest that I had been eyeing on the map. 
 I had seen that there was a small double-track trail leading from the road to the shoreline of a small lake. I followed this narrow trail through the trees a ways, dodging branches, and finally cresting a small hill. 
 On the other side, a little clearing opened up and there was the lake…it was perfect. I made a corner of that clearing my home for the night. I sit in my chair now by the water as the evening sun streams through the trees and the birds sing. 
