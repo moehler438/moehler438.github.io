@@ -22,14 +22,14 @@ The 9-day trip included 520 miles of riding, 3 states, 2 ferry rides, 1 national
  ![image info](/assets/img/posts/northwoods-loop-1&2/day1-map.png)
 
 After making the early drive to Cable, WI, I was finally making it happen. I strapped all of my newly sewn bags to my bike.
-This would be their first real test, 9 days around the western half of Lake Superior. Everything about today’s ride was so surreal, after so much preparation and talk about this trip, it was actually happening. 
+This would be their first real test, 9 days around the western half of Lake Superior. Everything about today’s ride was surreal, after so much preparation and talk about this trip, it was actually happening. 
 
  ![image info](/assets/img/posts/northwoods-loop-1&2/day1-trees.jpg)
 
 The ride itself was uneventful but in a good way—the way you want the first day of a trip to be. The roads were tame and carved tunnels through the overhanging branches of trees with their fresh spring leaves. 
 My homemade bags stayed together and the fresh northern air filled my lungs. What more could I ask for? I eventually came to the county forest that I had been eyeing on the map. 
-I had seen that there was a small double-track trail leading from the road to the shoreline of a small lake. I followed this narrow trail through the trees a ways, dodging branches, and finally crested a small hill. 
-On the other side, a small clearing opened up and there was the lake…it was perfect. I made a corner of that clearing my camp for the night. I sit in my chair now by the water as the evening sun streams through the trees and the birds sing. 
+I had seen that there was a small double-track trail leading from the road to the shoreline of a small lake. I followed this narrow trail through the trees a ways, dodging branches, and finally cresting a small hill. 
+On the other side, a little clearing opened up and there was the lake…it was perfect. I made a corner of that clearing my home for the night. I sit in my chair now by the water as the evening sun streams through the trees and the birds sing. 
 It’s good to be here.
 
  ![image info](/assets/img/posts/northwoods-loop-1&2/day1-lake.jpg)
@@ -50,6 +50,7 @@ I had to bail from an ATV route today. It was a gravel path and, for sections, b
 My detour was mostly county roads and highways so nothing too exciting. This was the first time I had approached Duluth from the Superior, WI side, and I’m not a fan. Superior was not bike-friendly at all. 
 At one point the 2-lane street + bike lane turned into a 4-lane (Highway? Street? Road? [Stroad?](https://en.wikipedia.org/wiki/Stroad)) and I lost my bike lane. I still made my way around and into Duluth though. 
 I experienced a crazy climb on some random Duluth street, about 8% or 9% grade for what felt like forever. In reality, it was only about 2 miles and 670ft of gain but felt like more on the loaded bike.
+
 I write in my journal today from Hawk Ridge Nature Reserve. I found a small overlook that had been cleared in preparation for some path construction and called that home for the evening. 
 I am above the main treeline of Duluth and below the hill I’m on are homes on the outskirts of the city. I have a phenomenal view of the lake, the birds are singing, and water trickles down the hill behind me. 
 I sat there for a while, perched on the hillside watching a storm move across the lake, turning the sky into an unbelievable purple in its wake. In the distance, I can see the industry of Superior light up as the ships come in. 
