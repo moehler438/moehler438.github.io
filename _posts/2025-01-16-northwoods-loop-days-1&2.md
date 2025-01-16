@@ -5,7 +5,7 @@ summary: "The start of a trip around the western half of Lake Superior"
 author: mattyo
 date: '2025-01-16 14:35:23 +0530'
 category: Bikepacking
-thumbnail: /assets/img/posts/northwoods-loop-1&2/day2-camp.jpg
+thumbnail: /assets/img/posts/northwoods-loop-1&2/day1-car.jpg
 keywords: bikepacking, what is bikepacking, travel by bike, bike touring, Northwoods, Northwoods Loop, lake superior bikepacking
 permalink: /blog/northwoods-loop-1&2/
 usemathjax: true
@@ -14,8 +14,6 @@ usemathjax: true
 The following is adapted from journal entries during my time bikepacking the [Northwoods Loop](https://bikepackingroots.org/project/the-northwoods-route/).
 The 9-day trip included 520 miles of riding, 3 states, 2 ferry rides, 4 national forests, and plenty of state parks/forests.
 I’ll be combining multiple days in each post to make it a quick read while maintaining the substance of the story, perfect to enjoy with your morning coffee. 
-
- ![image info](/assets/img/posts/northwoods-loop-1&2/day1-car.jpg)
 
 ## Day 1 - Cable to Flat Lake
 - 48.45 miles
