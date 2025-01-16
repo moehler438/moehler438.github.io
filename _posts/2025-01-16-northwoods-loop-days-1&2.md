@@ -5,7 +5,7 @@ summary: "The start of a trip around the western half of Lake Superior"
 author: mattyo
 date: '2025-01-16 14:35:23 +0530'
 category: Bikepacking
-thumbnail: /assets/img/posts/why_bikepacking/day1-car.jpg
+thumbnail: /assets/img/posts/why_bikepacking/day2-camp.jpg
 keywords: bikepacking, what is bikepacking, travel by bike, bike touring, Northwoods, Northwoods Loop, lake superior bikepacking
 permalink: /blog/northwoods-loop-1&2/
 usemathjax: true
@@ -38,6 +38,9 @@ It’s good to be here.
  ![image info](/assets/img/posts/why_bikepacking/day1-lake.jpg)
 
 ## Day 2 - Flat Lake to Hawk Ridge Nature Reserve
+- 66.25 miles
+- 2,290ft of gain
+- 6h 9m of riding
 
  ![image info](/assets/img/posts/why_bikepacking/day2-map.png)
 
