@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Northwoods Loop - Days 1 & 2"
-summary: "The start of a trip around the western half of Lake Superior?"
+summary: "The start of a trip around the western half of Lake Superior"
 author: mattyo
 date: '2025-01-16 14:35:23 +0530'
 category: Bikepacking
@@ -15,7 +15,7 @@ The following is adapted from journal entries during my time bikepacking the Nor
 The 9-day trip included 520 miles of riding, 3 states, 2 ferry rides, 4 national forests, and plenty of state parks/forests.
 I’ll be combining multiple days in each post to make it a quick read while maintaining the substance of the story, perfect to enjoy with your morning coffee. 
 
-##Day 1 - Cable to Flat Lake
+## Day 1 - Cable to Flat Lake
 
 After making the early drive to Cable, WI, I was finally making it happen. I strapped all of my newly sewn bags to my bike.
 This would be their first real test, 9 days around the western half of Lake Superior. Everything about today’s ride was so surreal, 
@@ -27,7 +27,7 @@ I had seen that there was a small double-track trail leading from the road to th
 On the other side, a small clearing opened up and there was the lake…it was perfect. I made a corner of that clearing my camp for the night. I sit in my chair now by the water as the evening sun streams through the trees and the birds sing. 
 It’s good to be here.
 
-##Day 2 - Flat Lake to Hawk Ridge Nature Reserve
+## Day 2 - Flat Lake to Hawk Ridge Nature Reserve
 
 Something about this trip doesn’t quite feel real. It’s a strange sensation when something you’ve anticipated for so long is finally here. I feel like I’m at the stage of my life where I’m constantly moving from one big anticipation to the next. 
 Maybe all of life is like that—I don’t know, I’m only 23. 
