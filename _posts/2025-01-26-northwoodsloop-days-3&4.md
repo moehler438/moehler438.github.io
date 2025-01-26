@@ -5,7 +5,7 @@ summary: "Getting a tour of a bikepacking company's sewing room and navigating t
 author: mattyo
 date: '2025-01-26 14:35:23 +0530'
 category: Bikepacking
-thumbnail: /assets/img/posts/northwoods-loop-3&4/3&4 - 1.jpg
+thumbnail: /assets/img/posts/northwoods-loop-3&4/3&4 - 8.jpg
 keywords: bikepacking, what is bikepacking, travel by bike, bike touring, Northwoods, Northwoods Loop, lake superior bikepacking
 permalink: /blog/northwoods-loop-3&4/
 usemathjax: true
