@@ -17,7 +17,7 @@ usemathjax: true
 - 3,212ft of gain
 - 6h 13m of riding
 
- ![image info](/assets/img/posts/northwoods-loop-3&4/day3.jpg)
+ ![image info](/assets/img/posts/northwoods-loop-3&4/day3.png)
 
 As I sipped my morning coffee today, I watched a ship leave the harbor. As the massive lake freighter departed from the bay outside Duluth, smaller boats filled its wake. 
 I knew I had been sitting up there too long watching the lake; I had a schedule to maintain and should have been packing up. Nevertheless, I sat and watched a while longer, as the freighter became hazy in the distance.
@@ -34,6 +34,7 @@ undergrad degree in physics and future master's in atmospheric science, his son 
 He was truly a joy to meet and his business remains a dream of mine; coffee shop, bike shop, and bike bag manufacturer all in one, tucked into the pines along the North Shore. I hope to visit him in his store again someday.
 
  ![image info](/assets/img/posts/northwoods-loop-3&4/3&4 - 2.jpg)
+ 
  ![image info](/assets/img/posts/northwoods-loop-3&4/3&4 - 3.jpg)
 
 The hills hurt a little extra today. My legs were sore from the previous two days but I think they’re starting to get acclimated to their new daily routine. I rode 70 miles and made it to Finland Campground. 
@@ -50,7 +51,7 @@ A few occupied campsites around me have individuals congregating around their ow
 - 6h 43m of riding
 - Song of the day: End of the Line by Travelling Wilburys
 
- ![image info](/assets/img/posts/northwoods-loop-3&4/day4.jpg)
+ ![image info](/assets/img/posts/northwoods-loop-3&4/day4.png)
 
 It’s nice having my only commitment each day be riding my bike. Today’s ride was tough. With plenty of distance already on the legs, I did 73 miles in Superior National Forest, away from the comfort of Lake Superior constantly in sight on my right side. 
 The day was filled with open gravel roads that meandered through the pine-covered hills, crossing streams and past old logging camps. Eventually, I found myself on The Grade, a road I had been eager to find. 
@@ -62,6 +63,7 @@ I altered the route as I went in hopes of cutting a little mileage and avoiding 
 It had some flooding and a few trees down but was very traversable. I’m not sure if I actually cut any mileage but the alternative route was beautiful so does it really matter?
 
 ![image info](/assets/img/posts/northwoods-loop-3&4/3&4 - 6.jpg)
+
 ![image info](/assets/img/posts/northwoods-loop-3&4/3&4 - 7.jpg)
 
 My route led me to an asphalt shoulder as I shot directly east toward Grand Marais. The straight road cut a channel through the forests on either side and gave me a line of sight to Lake Superior in the distance. 
