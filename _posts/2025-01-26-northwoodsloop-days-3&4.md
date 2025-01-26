@@ -75,5 +75,5 @@ Eventually, I would make the 750ft descent that ended in Grand Marais, and again
 
 I write today from inside Voyager Brewing in Grand Marais. I’m sipping on a wild rice ale as I wait for my phone and power bank to gain some charge. I don’t like feeling tethered to electricity whenever I find it but I needed my head unit for navigation and my phone for emergencies. 
 After some less-than-ideal experiences on previous ventures, I knew friends might worry if they didn’t hear from me regularly. I was able to take a warm shower at the campground and wow, never underestimate how great a shower can feel and its revitalizing effects. 
-I felt like I was beginning my journey for the first time again, having washed off the layer of dirt and dust that adhered itself to my sweat, forming an exoskeleton. It’s only after times like this that feeling clean is appreciated enough. I’m tired but refreshed.
+I felt like I was beginning my journey for the first time again, having washed off the layer of dirt and dust that adhered itself to my skin, forming an exoskeleton. It’s only after times like this that feeling clean is appreciated enough. I’m tired but refreshed.
 
